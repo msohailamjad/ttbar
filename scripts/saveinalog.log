@@ -1,0 +1,52 @@
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/MarlinDD4hep/v00-02/lib/libMarlinDD4hep.so.0.2.0 (libMarlinDD4hep.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/DDMarlinPandora/v00-04/lib/libDDMarlinPandora.so.00.04.00 (libDDMarlinPandora.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/MarlinReco/v01-16/lib/libMarlinReco.so.1.16.0 (libMarlinReco.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/PandoraAnalysis/v01-02-01/lib/libPandoraAnalysis.so.01.02.01 (libPandoraAnalysis.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/MarlinPandora/v02-04-00/lib/libMarlinPandora.so.02.04.00 (libMarlinPandora.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/LCFIVertex/v00-07-02/lib/libLCFIVertex.so.0.7.2 (libLCFIVertex.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/CEDViewer/v01-12/lib/libCEDViewer.so.1.12.0 (libCEDViewer.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/Overlay/v00-16/lib/libOverlay.so.0.16.0 (libOverlay.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/FastJetClustering/v00-03/lib/libFastJetClustering.so.0.3.0 (libFastJetClustering.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/MarlinFastJet/v00-03/lib/libMarlinFastJet.so.0.3.0 (libMarlinFastJet.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/LCTuple/v01-06/lib/libLCTuple.so.1.6.0 (libLCTuple.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/MarlinKinfit/v00-04/lib/libMarlinKinfit.so.0.4.0 (libMarlinKinfit.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/MarlinKinfitProcessors/v00-02/lib/libMarlinKinfitProcessors.so.0.2.0 (libMarlinKinfitProcessors.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/MarlinTrkProcessors/v02-04/lib/libMarlinTrkProcessors.so.2.4.0 (libMarlinTrkProcessors.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/ILDPerformance/v01-01/lib/libILDPerformance.so.1.1.0 (libILDPerformance.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/Clupatra/v00-14/lib/libClupatra.so.0.14.0 (libClupatra.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/Physsim/v00-03/lib/libPhyssim.so.0.3.0 (libPhyssim.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/FCalClusterer/v00-03/lib/libFCalClusterer.so (libFCalClusterer.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/LCFIPlus/v00-06-05/lib/libLCFIPlus.so.0.6.5 (libLCFIPlus.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/ForwardTracking/v01-10/lib/libForwardTracking.so.1.10.0 (libForwardTracking.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/MarlinTPC/v01-02/lib/libMarlinTPC.so.1.2.0 (libMarlinTPC.so)-->
+<!-- Loading shared library : /afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/Garlic/v3.0.4/lib/libGarlic.so.3.0.4 (libGarlic.so)-->
+<!-- Loading shared library : /home/msamjad/ilc/marlintest/mymarlin/lib/libmymarlin.so.0.1.0 (libmymarlin.so)-->
+
+[ VERBOSE "JetClusteringAndFlavorTag"] LCIOStorer: initialization finished.
+[ VERBOSE "JetClusteringAndFlavorTag"] EventStore::Register: collection PandoraPFOs registered with type vector<lcfiplus::Track*>
+[ VERBOSE "JetClusteringAndFlavorTag"] EventStore::Register: collection PandoraPFOs registered with type vector<lcfiplus::Neutral*>
+[ VERBOSE "JetClusteringAndFlavorTag"] LCIOStorer initialized without MCParticle collection.
+[ VERBOSE "JetClusteringAndFlavorTag"] Registering output LCIO jet collection: RefinedJets
+[ VERBOSE "JetClusteringAndFlavorTag"] EventStore::Register: collection RefinedJets registered with type vector<lcfiplus::Jet*>
+[ VERBOSE "JetClusteringAndFlavorTag"] Registering output LCIO vertex collection: RefinedVertex
+[ VERBOSE "JetClusteringAndFlavorTag"] EventStore::Register: collection RefinedVertex registered with type vector<lcfiplus::Vertex*>
+[ VERBOSE "JetClusteringAndFlavorTag"] Parameter JetVertexRefiner.useBNess not found.
+[ VERBOSE "JetClusteringAndFlavorTag"] Parameter JetVertexRefiner.BNessCut not found.
+[ VERBOSE "JetClusteringAndFlavorTag"] Parameter JetVertexRefiner.BNessCutE1 not found.
+[ VERBOSE "JetClusteringAndFlavorTag"] Near-IP histogram not included in the D0 probability file. d0Xprobip is not usable.
+[ VERBOSE "JetClusteringAndFlavorTag"] Joint probability not included in the D0 probability file. jprobr2 is not usable.
+[ VERBOSE "JetClusteringAndFlavorTag"] Near-IP histogram not included in the Z0 probability file. z0Xprobip is not usable.
+[ VERBOSE "JetClusteringAndFlavorTag"] Joint probability not included in the Z0 probability file. jprobz2 is not usable.
+[ VERBOSE "JetClusteringAndFlavorTag"] Parameter FlavourTag.NVTXhitsJointProbD0 not found.
+[ VERBOSE "JetClusteringAndFlavorTag"] Parameter FlavourTag.NVTXhitsJointProbZ0 not found.
+[ VERBOSE "JetClusteringAndFlavorTag"] Parameter FlavourTag.NhitsMostSignificantTrack not found.
+[ VERBOSE "JetClusteringAndFlavorTag"] Initializing FTManager variables.
+[ VERBOSE "JetClusteringAndFlavorTag"] Parameter FlavorTag.ExportAllVariables not found.
+[ VERBOSE "JetClusteringAndFlavorTag"] Parameter FlavorTag.CategoryDefinition5 not found.
+[ VERBOSE "JetClusteringAndFlavorTag"] definition for index 5 not found, skipping
+[ VERBOSE "JetClusteringAndFlavorTag"] Printing object map in EventStore...
+[ VERBOSE "JetClusteringAndFlavorTag"] Name: PandoraPFOs, Class: vector<lcfiplus::Track*>
+[ VERBOSE "JetClusteringAndFlavorTag"] Name: PandoraPFOs, Class: vector<lcfiplus::Neutral*>
+[ VERBOSE "JetClusteringAndFlavorTag"] Name: RefinedJets, Class: vector<lcfiplus::Jet*>
+[ VERBOSE "JetClusteringAndFlavorTag"] Name: RefinedVertex, Class: vector<lcfiplus::Vertex*>
+[ VERBOSE "JetClusteringAndFlavorTag"] Printing object map in EventStore finished.

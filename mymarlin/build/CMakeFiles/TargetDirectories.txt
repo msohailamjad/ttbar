@@ -1,0 +1,2 @@
+/home/msamjad/ilc/marlintest/mymarlin/build/CMakeFiles/uninstall.dir
+/home/msamjad/ilc/marlintest/mymarlin/build/CMakeFiles/mymarlin.dir

@@ -1,0 +1,4 @@
+
+SET( MarlinUtil_HOME"/afs/desy.de/project/ilcsoft/sw/x86_64_gcc44_sl6/v01-17-11/MarlinUtil/v01-12-01" CACHE PATH "Path to MarlinUtil" FORCE)
+SET( MarlinUtil_DIR "${MarlinUtil_HOME}" CACHE PATH "Path to MarlinUtil" FORCE)
+MARK_AS_ADVANCED( MarlinUtil_DIR MarlinUtil_HOME )
